@@ -1,4 +1,4 @@
-﻿namespace YALogViewer.Utils
+﻿namespace TrackingStreamLib
 {
     using System;
     using System.IO;

@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 // associated with an assembly.
 
 [assembly: AssemblyTitle("TrackingStreamLib")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Provides methods for reading constantly changing streams. Sources: https://github.com/iXab3r/TrackingStreamLib")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("TrackingStreamLib")]
